@@ -1,0 +1,78 @@
+- git:
+    local-name: cob_calibration_data
+    uri: https://github.com/mas-group/cob_calibration_data.git
+    version: indigo_dev
+- git:
+    local-name: cob_command_tools
+    uri: https://github.com/mas-group/cob_command_tools.git
+    version: indigo_dev
+- git:
+    local-name: cob_common
+    uri: https://github.com/mas-group/cob_common.git
+    version: indigo_dev
+- git:
+    local-name: cob_control
+    uri: https://github.com/mas-group/cob_control.git
+    version: indigo_dev
+- git:
+    local-name: cob_driver
+    uri: https://github.com/mas-group/cob_driver.git
+    version: indigo_dev
+- git:
+    local-name: cob_robots
+    uri: https://github.com/mas-group/cob_robots.git
+    version: indigo_dev
+- git:
+    local-name: dynamixel_motor
+    uri: https://github.com/mas-group/dynamixel_motor.git
+    version: master
+- git:
+    local-name: mas_common_robotics
+    uri: gitgate@mas.b-it-center.de:mas-group/mas_common_robotics.git
+    version: indigo
+- git:
+    local-name: mas_domestic_robotics
+    uri: gitgate@mas.b-it-center.de:mas-group/mas_domestic_robotics.git
+- git:
+    local-name: mas_industrial_robotics
+    uri: gitgate@mas.b-it-center.de:mas-group/mas_industrial_robotics.git
+- git:
+    local-name: mas_third_party_software
+    uri: gitgate@mas.b-it-center.de:mas-group/mas_third_party_software.git
+    version: indigo
+- git:
+    local-name: realsense_camera
+    uri: https://github.com/mas-group/realsense_camera.git
+    version: master
+- git:
+    local-name: schunk_modular_robotics
+    uri: https://github.com/mas-group/schunk_modular_robotics.git
+    version: indigo_dev
+- git:
+    local-name: srdf_parser_py
+    uri: https://github.com/mas-group/srdf_parser_py.git
+    version: master
+- git:
+    local-name: youbot-manipulation
+    uri: https://github.com/mas-group/youbot-manipulation.git
+    version: indigo
+- git:
+    local-name: youbot_description
+    uri: https://github.com/mas-group/youbot_description.git
+    version: indigo-devel
+- git:
+    local-name: youbot_diagnostics
+    uri: https://github.com/mas-group/youbot_diagnostics.git
+    version: indigo-devel
+- git:
+    local-name: youbot_driver
+    uri: https://github.com/mas-group/youbot_driver.git
+    version: hydro-devel
+- git:
+    local-name: youbot_driver_ros_interface
+    uri: https://github.com/mas-group/youbot_driver_ros_interface.git
+    version: trajectory_controller_dirty_fix
+- git:
+    local-name: youbot_simulation
+    uri: https://github.com/mas-group/youbot_simulation.git
+    version: indigo-devel
