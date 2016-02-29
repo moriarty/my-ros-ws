@@ -32,7 +32,7 @@
     version: indigo
 - git:
     local-name: mas_lwr_ros
-    uri: gitgate@mas.b-it-center.de:mas-group/mas_lwd_ros.git
+    uri: gitgate@mas.b-it-center.de:mas-group/mas_lwr_ros.git
     version: hydro_temp
 - git:
     local-name: mas_third_party_software
