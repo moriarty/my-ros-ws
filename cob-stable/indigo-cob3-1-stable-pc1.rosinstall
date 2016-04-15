@@ -1,0 +1,37 @@
+- git:
+    local-name: cob_calibration_data
+    uri: https://github.com/mas-group/cob_calibration_data.git
+    version: indigo_dev
+- git:
+    local-name: cob_command_tools
+    uri: https://github.com/mas-group/cob_command_tools.git
+    version: indigo_dev
+- git:
+    local-name: cob_common
+    uri: https://github.com/mas-group/cob_common.git
+    version: indigo_dev
+- git:
+    local-name: cob_control
+    uri: https://github.com/mas-group/cob_control.git
+    version: indigo_dev
+- git:
+    local-name: cob_driver
+    uri: https://github.com/mas-group/cob_driver.git
+    version: indigo_dev
+- git:
+    local-name: cob_robots
+    uri: https://github.com/mas-group/cob_robots.git
+    version: indigo_dev
+- git:
+    local-name: mas_lwr_ros
+    uri: gitgate@mas.b-it-center.de:mas-group/mas_lwr_ros.git
+    version: hydro_temp
+- git:
+    local-name: schunk_modular_robotics
+    uri: https://github.com/mas-group/schunk_modular_robotics.git
+    version: indigo_dev
+- git:
+    local-name: srdf_parser_py
+    uri: https://github.com/mas-group/srdf_parser_py.git
+    version: master
+
