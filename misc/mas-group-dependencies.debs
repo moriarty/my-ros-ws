@@ -3,6 +3,7 @@
 # create list of packages to install
 packagelist=(
   libcap2-bin
+  libpopt-dev
   liblog4cpp5-dev
   libsvm-dev
   libudev-dev
@@ -79,6 +80,7 @@ packagelist=(
   ros-kinetic-smach-ros
   ros-kinetic-srdfdom
   ros-kinetic-std-srvs
+  ros-kinetic-stereo-msgs
   ros-kinetic-tf
   ros-kinetic-tf-conversions
   ros-kinetic-trajectory-msgs
