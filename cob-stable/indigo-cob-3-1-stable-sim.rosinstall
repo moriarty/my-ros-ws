@@ -24,8 +24,8 @@
     version: indigo_dev
 - git:
     local-name: cob_extern
-    uri: https://github.com/mas-group/cob_extern.git
-    version: indigo_dev
+    uri: https://github.com/moriarty/cob_extern.git
+    version: kinetic_dev
 - git:
     local-name: cob_perception_common
     uri: git@github.com:ipa320/cob_perception_common.git
