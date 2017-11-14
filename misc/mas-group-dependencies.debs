@@ -2,19 +2,25 @@
 
 # create list of packages to install
 packagelist=(
+  ipmitool
   libcap2-bin
   libpopt-dev
   liblog4cpp5-dev
+  libmuparser-dev
+  libopencv-dev
   libsvm-dev
   libudev-dev
   libv4l-dev
+  libvlc-dev
   python-catkin-lint
   python-catkin-tools
+  python-mechanize
   python-pygraphviz
   python-rosinstall
   python-scipy
   python-setuptools
   python-sklearn
+  python-sympy
   python-vcstools
   python-zmq
   ros-kinetic-amcl
@@ -22,6 +28,8 @@ packagelist=(
   ros-kinetic-bfl
   ros-kinetic-brics-actuator
   ros-kinetic-clear-costmap-recovery
+  ros-kinetic-cob-android-script-server
+  ros-kinetic-cob-head-axis
   ros-kinetic-control-msgs
   ros-kinetic-costmap-2d
   ros-kinetic-diagnostic-aggregator
@@ -41,6 +49,7 @@ packagelist=(
   ros-kinetic-image-transport
   ros-kinetic-interactive-markers
   ros-kinetic-joint-state-controller
+  ros-kinetic-joint-state-publisher
   ros-kinetic-joint-trajectory-controller
   ros-kinetic-joy
   ros-kinetic-kdl-parser
@@ -76,8 +85,10 @@ packagelist=(
   ros-kinetic-rqt-reconfigure
   ros-kinetic-rqt-robot-dashboard
   ros-kinetic-rviz
+  ros-kinetic-serial
   ros-kinetic-smach
   ros-kinetic-smach-ros
+  ros-kinetic-spacenav-node
   ros-kinetic-srdfdom
   ros-kinetic-std-srvs
   ros-kinetic-stereo-msgs
@@ -91,6 +102,7 @@ packagelist=(
   ros-kinetic-visualization-msgs
   ros-kinetic-xacro
   unzip
+  vlc
 )
 
 ### install debian packages listed in array above
