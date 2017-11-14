@@ -32,6 +32,9 @@ packagelist=(
   ros-kinetic-dynamixel-controllers
   ros-kinetic-dynamixel-msgs
   ros-kinetic-eband-local-planner
+  ros-kinetic-gazebo8-plugins
+  ros-kinetic-gazebo8-ros
+  ros-kinetic-gazebo8-ros-control
   ros-kinetic-global-planner
   ros-kinetic-gmapping
   ros-kinetic-image-transport
