@@ -7,7 +7,7 @@ If you put this repository in ~/ros-ws-setup you can copy and paste the other in
 
 ## Care-O-Bot 3-1 instructions
 
-To save combile time on the Care-O-Bot, I've taken advantage of catkin workspace overlays.
+To save compile time on the Care-O-Bot, I've taken advantage of catkin workspace overlays.
 
 ### Structure and Usage
 
